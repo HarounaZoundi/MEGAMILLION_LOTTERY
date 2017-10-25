@@ -1,0 +1,2 @@
+# MEGGAMILLION_LOTTERY
+The Lottery game in   which the ticket purchaser selects, or has the computer randomly assign five (5) different numbers from Field 1 which includes a range of consecutive numbers from one (1) to fifty-six (56) and one (1) number from Field 2 which includes arange of consecutive numbers from one (1) to forty-six (46), shall be called MEGAMILLIONS Enter your numbers and press the bottom Play.By pressing autoPlay the computer selects numbers for you
